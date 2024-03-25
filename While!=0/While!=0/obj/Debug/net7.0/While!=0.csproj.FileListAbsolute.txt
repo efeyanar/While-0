@@ -1,0 +1,15 @@
+/Users/efe/Projects/While!=0/While!=0/bin/Debug/net7.0/While!=0
+/Users/efe/Projects/While!=0/While!=0/bin/Debug/net7.0/While!=0.deps.json
+/Users/efe/Projects/While!=0/While!=0/bin/Debug/net7.0/While!=0.runtimeconfig.json
+/Users/efe/Projects/While!=0/While!=0/bin/Debug/net7.0/While!=0.dll
+/Users/efe/Projects/While!=0/While!=0/bin/Debug/net7.0/While!=0.pdb
+/Users/efe/Projects/While!=0/While!=0/obj/Debug/net7.0/While!=0.csproj.AssemblyReference.cache
+/Users/efe/Projects/While!=0/While!=0/obj/Debug/net7.0/While!=0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/efe/Projects/While!=0/While!=0/obj/Debug/net7.0/While!=0.AssemblyInfoInputs.cache
+/Users/efe/Projects/While!=0/While!=0/obj/Debug/net7.0/While!=0.AssemblyInfo.cs
+/Users/efe/Projects/While!=0/While!=0/obj/Debug/net7.0/While!=0.csproj.CoreCompileInputs.cache
+/Users/efe/Projects/While!=0/While!=0/obj/Debug/net7.0/While!=0.dll
+/Users/efe/Projects/While!=0/While!=0/obj/Debug/net7.0/refint/While!=0.dll
+/Users/efe/Projects/While!=0/While!=0/obj/Debug/net7.0/While!=0.pdb
+/Users/efe/Projects/While!=0/While!=0/obj/Debug/net7.0/While!=0.genruntimeconfig.cache
+/Users/efe/Projects/While!=0/While!=0/obj/Debug/net7.0/ref/While!=0.dll
